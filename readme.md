@@ -26,10 +26,6 @@
 
 <div align="center">
     <img alt="Ivan Barayev GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=MuhammedTalhaSemerci&theme=algolia&hide_border=true&count_private=true&show_icons=true">
-    <img alt="Ivan Barayev GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mutafakkir&theme=algolia&hide_border=true">
+    <img alt="Ivan Barayev GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedTalhaSemerci&theme=algolia&hide_border=true">
 </div>
 
-<div align="center">
-    <!--<img alt="Ivan Barayev Most Used Languages Stats" width="48%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedTalhaSemerci&layout=compact&theme=tokionight&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=10">-->
-    <img alt="GitHub Activity Graph" width="96%" src="https://activity-graph.herokuapp.com/graph?username=MuhammedTalhaSemerci&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
-</div>
