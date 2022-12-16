@@ -13,12 +13,9 @@
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/MuhammedTalhaSemerci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="MuhammedTalhaSemerci" height="30" width="40" /></a>
-<a href="https://twitter.com/ivan_barayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivan_barayev" height="30" width="40" /></a>
+<a href="https://www.npmjs.com/~le_quasimodo_sans_amor" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sereyhanli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sereyhanli" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6293599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6293599" height="30" width="40" /></a>
 <a href="https://instagram.com/MuhammedTalhaSemerci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MuhammedTalhaSemerci" height="30" width="40" /></a>
-<a href="https://medium.com/@MuhammedTalhaSemerci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@MuhammedTalhaSemerci" height="30" width="40" /></a>
 </p>
 
 ---
