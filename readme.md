@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.npmjs.com/~le_quasimodo_sans_amor" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sereyhanli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sereyhanli" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammed-talha-semerci-a07b2b179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sereyhanli" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammed_semerci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MuhammedTalhaSemerci" height="30" width="40" /></a>
 </p>
 
