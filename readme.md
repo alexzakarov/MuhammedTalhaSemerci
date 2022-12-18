@@ -5,7 +5,7 @@
 📫 How to reach me **semerci394@gmail.com**
 ---   
 
-### Blogs posts
+<!--### Blogs posts-->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
